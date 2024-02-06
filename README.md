@@ -1,22 +1,17 @@
-### Hi there 👋
+### Hey there👋
+
+**`Ernur Torekul (Developer/Enthusiast/Idea Maven)`**
+
+I'm Ernur, a developer who loves coding and learning new things. All my projects are built around the things I'm passionate about, focusing on automating tasks to simplify my life (and not only) in an easy and creative way. I'm open to new ideas and opportunities, so let's collaborate and build something cool together! Feel free to reach out via email or connect on LinkedIn below.  
 
 <p align="left">
+      <a href="http://twitter.com/eddiejaoude">
+          <img src="https://img.shields.io/badge/follow-%40eddiejaoude%20130k+-1DA1F2?label=gmail&logo=gmail&style=for-the-badge&color=blue" alt="Eddie Jaoude's Twitter"/>
+      </a>
       <a href="http://twitter.com/eddiejaoude">
           <img src="https://img.shields.io/badge/follow-%40eddiejaoude%20130k+-1DA1F2?label=Linkedin&logo=linkedin&style=for-the-badge&color=blue" alt="Eddie Jaoude's Twitter"/>
       </a>
       <a href="http://twitter.com/eddiejaoude">
           <img src="https://img.shields.io/badge/follow-%40eddiejaoude%20130k+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Eddie Jaoude's Twitter"/>
       </a>
-      <a href="http://twitter.com/eddiejaoude">
-          <img src="https://img.shields.io/badge/follow-%40eddiejaoude%20130k+-1DA1F2?label=gmail&logo=gmail&style=for-the-badge&color=blue" alt="Eddie Jaoude's Twitter"/>
-      </a>
-      
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+</p>
