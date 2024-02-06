@@ -8,7 +8,7 @@ I'm Ernur, a developer who loves coding and learning new things. All my projects
 
 <p align="left">
       <a href="mailto:ernurtorekul@gmail.com">
-          <img src="https://img.shields.io/badge?label=gmail&logo=gmail&style=for-the-badge&color=blue" alt="Ernur's email"/>
+          <img src="https://img.shields.io/label=gmail&logo=gmail&style=for-the-badge&color=blue" alt="Ernur's email"/>
       </a>
       <a href="http://twitter.com/eddiejaoude">
           <img src="https://img.shields.io/badge/follow-%40eddiejaoude%20130k+-1DA1F2?label=Linkedin&logo=linkedin&style=for-the-badge&color=blue" alt="Eddie Jaoude's Twitter"/>
