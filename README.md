@@ -10,10 +10,11 @@ I'm Ernur, a developer who loves coding and learning new things. All my projects
       <a href="mailto:ernurtorekul@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ernur's email"/>
       </a>
-      <a href="http://twitter.com/eddiejaoude">
-          <img src="https://img.shields.io/badge/follow-%40eddiejaoude%20130k+-1DA1F2?label=Linkedin&logo=linkedin&style=for-the-badge&color=blue" alt="Eddie Jaoude's Twitter"/>
+      <a href="https://www.linkedin.com/in/ernur-torekul/">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ernur's Linkedin"/>
       </a>
-      <a href="http://twitter.com/eddiejaoude">
-          <img src="https://img.shields.io/badge/follow-%40eddiejaoude%20130k+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Eddie Jaoude's Twitter"/>
+      <a href="https://twitter.com/PakkQwerty">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Ernur's Twitter"/>
       </a>
+      
 </p>
