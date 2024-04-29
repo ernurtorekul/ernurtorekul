@@ -1,0 +1,23 @@
+{
+ "message": string,
+ "code": "success",
+ "user":{
+    id: 1,
+    username.
+
+ },
+ accessToken,
+ refreshToken
+}
+status: 200d
+
+
+
+Bearer 'accessToken'
+
+axios.create({
+   baseUrl: '',
+   withCredentinal: true
+})
+
+Cookie <- refreshToken
