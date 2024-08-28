@@ -13,10 +13,6 @@ I'm Ernur, a developer who loves coding and learning new things. All my projects
       <a href="https://www.linkedin.com/in/ernur-torekul/">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ernur's Linkedin"/>
       </a>
-      <a href="https://twitter.com/PakkQwerty">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Ernur's Twitter"/>
-      </a>
-      
 </p>
 
 
