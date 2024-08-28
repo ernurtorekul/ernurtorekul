@@ -4,7 +4,7 @@
 **`Ernur Torekul (Developer/Enthusiast)`**
 
 
-I'm Ernur, a developer who loves coding and learning new things. All my projects are built around the things I'm passionate about, focusing on automating tasks to simplify my life (and not only) in an easy and creative way. I'm open to new ideas and opportunities, so let's collaborate and build something cool together! Feel free to reach out via email or connect on LinkedIn below.  
+I'm Ernur, a developer who loves coding and learning new things. All my projects are built around the things I'm passionate about, focusing on automating tasks to simplify people's life in an easy and creative way. I'm open to new ideas and opportunities, so let's collaborate and build something cool together! Feel free to reach out via email or connect on LinkedIn below.  
 
 <p align="left">
       <a href="mailto:ernurtorekul@gmail.com">
