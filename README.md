@@ -37,7 +37,7 @@ I'm Ernur, a developer who loves coding and learning new things. All my projects
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px; background-color:blue;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px; background-color:#f0f0f0;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg"/>
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
